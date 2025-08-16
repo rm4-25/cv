@@ -24,7 +24,7 @@ baseurl: "/cv/" # the subpath of your site, e.g.
 url: "https://rm4-25.github.io" # the base hostname & protocol for your site, e.g. http://rm4-25.github.io/
 
 # Build settings
-theme: jekyll-whiteglass
+theme: minima
 plugins:
   - jekyll-feed
 
