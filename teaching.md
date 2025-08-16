@@ -5,7 +5,7 @@ permalink: /Teaching/
 ---
 ### Undergraduate Courses
 
-WRS 105 Teaching Assistant, 2026-Present, University of Miami, Coral Gables, FL. 
+ENG 106 Graduate Instructor, 2026-Present, University of Miami, Coral Gables, FL. 
 
 INRW Adjunct Instructor, 2023-2025, Lamar Institute of Technology, Beaumont, TX.   
 
@@ -34,5 +34,6 @@ QM Rubric Update Role Reinstatement (RURR) Seventh Edition Self-Paced Course –
 ASU Career Catalyst:Teaching and Learning with Generative AI: Higher Education – May 28, 2024.
 
 Applying the Quality Matters Rubric Certification – June 20, 2022. 
+
 
 
