@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About #
+# About
 
 raul martin IV is a PhD student of English at the University of Miami. 
 His research interests include environmental and animal studies, popular culture, 
